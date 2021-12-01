@@ -18,7 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+#program to swap two values
+#Developed by:Anitha P
+#Register Number:21500186
+import numpy as np
+A = np.array ([[1,3],[2,5]])
+B = np.array ([5,-3])
+value = np.linalg.solve(A,B)
+print(value)
+```
+## output:
+![output](./output.png)
 
 
 ## RESULT:
